@@ -24,8 +24,8 @@ if Moy < 10 :
 elif 10 <= Moy <12 :
     print("\nla mention de l'etudiant est passable")
 elif 12<= Moy <14 :
-    print("\nla moyenne de l'etudiant est assez bien")
+    print("\nla mention de l'etudiant est assez bien")
 elif 14<= Moy <16 :
-    print("\nla moyenne de l'etudiant est bien")
+    print("\nla mention de l'etudiant est bien")
 else :
-    print("\nla moyenne de l'etudiant est tres bien")
+    print("\nla mention de l'etudiant est tres bien")
